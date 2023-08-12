@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbenezerKitata
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently working as fullstack web developer at fun rentals company!
+- 🌱 I’m currently working as fullstack web developer at fun auto rentals company!
 - 📫 You can reach me at abi4kit@gmail.com
 
 <!---

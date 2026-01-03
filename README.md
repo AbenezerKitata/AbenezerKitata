@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @AbenezerKitata
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently working as a fullstack web developer at an auto rentals company!
-- 📫 You can reach me at abi4kit@gmail.com
+
